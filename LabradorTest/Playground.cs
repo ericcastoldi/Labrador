@@ -8,6 +8,7 @@ namespace LabradorTest
     [TestClass]
     public class Playground
     {
+        [Ignore]
         [TestMethod]
         public void TestMethod1()
         {
